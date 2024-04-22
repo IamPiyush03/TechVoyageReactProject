@@ -1,6 +1,5 @@
 
 
-```markdown
 # TechVoyage
 
 TechVoyage is a dynamic web application showcasing innovative solutions and services in the tech industry. This repository contains the codebase for the TechVoyage website.
@@ -9,10 +8,11 @@ TechVoyage is a dynamic web application showcasing innovative solutions and serv
 
 - [Overview](#overview)
 - [Features](#features)
+- [Preview](#preview)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -25,7 +25,11 @@ TechVoyage is a fictional tech company aimed at providing cutting-edge solutions
 - Brands Section: Showcases partnerships with major tech brands.
 - Services Section: Highlights TechVoyage's services using a carousel.
 - Contact Form: Allows users to submit queries and messages.
-- Footer: Provides links to TechVoyage's social media platforms.
+
+## Preview
+
+You can preview the TechVoyage project [here](https://reactone-gvipxmts7-piyushs-projects-815384e6.vercel.app/).
+
 
 ## Technologies Used
 
@@ -33,7 +37,7 @@ TechVoyage is a fictional tech company aimed at providing cutting-edge solutions
 - React Router: For navigation and routing.
 - React Responsive Carousel: For the services carousel.
 - HashLink: For smooth scrolling to anchor links.
-- HTML/CSS: Styling and structure.
+- HTML/SCSS: Styling and structure.
 - JavaScript: Frontend scripting.
 - Git/GitHub: Version control and collaboration.
 
@@ -71,9 +75,3 @@ Contributions to the TechVoyage project are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Feel free to customize this README file further based on your project's specific details and requirements!
